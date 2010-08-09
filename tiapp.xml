@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:app xmlns:ti="http://ti.appcelerator.org">
+<id>com.vikinghammer.actioneer</id>
+<name>Actioneer</name>
+<version>1.0</version>
+<publisher>Sean Schulte</publisher>
+<url>http://vikinghammer.com</url>
+<description>Record how often you perform various actions, and review your history.</description>
+<copyright>2010 by Sean Schulte</copyright>
+<icon>small_app_logo.png</icon>
+    <persistent-wifi>false</persistent-wifi>
+    <prerendered-icon>false</prerendered-icon>
+    <statusbar-style>default</statusbar-style>
+    <statusbar-hidden>false</statusbar-hidden>
+    <fullscreen>false</fullscreen>
+    <navbar-hidden>false</navbar-hidden>
+    <analytics>true</analytics>
+<guid>1cfc186f-5e64-440a-9ae3-c98151254eaa</guid>
+</ti:app>
